@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Payaso 🤡 Plim Plim",
+      "imagen": "./imagenes/PlimPlim-2pisos.jpg",
+      "descripcion": "Cake 3 pisos\nTemática en Foamy del Payaso 🤡 Plim Plim\nSabor 😝\nCrema de chocolate\nCrema de maní (3)\nCrema de piña 🍍 (3)\nBombón (3)\nLeche condensada fanguito (3)\nGuayaba\nBlonda incluida",
+      "precio": "25.075 cup"
+    }
+  ]
+}

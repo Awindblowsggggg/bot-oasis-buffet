@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Paw Patrol y Monster Truck",
+      "imagen": "./imagenes/pawpatrol-monster.jpg",
+      "descripcion": "Cake mitad bandeja ➕ redondo chiquito arriba\nDoble Temática en Foamy de Paw Patrol y Monster Truck\nColores: rojo ❤ y amarillo 💛\nAzul 💙 amarillo 💛 y verde 💚\nSabor 😝\nCrema de chocolate 🍫\nCrema de maní (3)\nCrema de piña 🍍 (3)\nBombón\nLeche condensada (fanguito)(3)\nGuayaba\nBlonda incluida",
+      "precio": "12.495 cup"
+    }
+  ]
+}

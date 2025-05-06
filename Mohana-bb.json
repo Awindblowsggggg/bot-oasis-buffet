@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Mohana bb",
+      "imagen": "./imagenes/Mohanabb.jpg",
+      "descripcion": "Cake 2 pisos temática en Foamy de Mohana bb\nSabores 🍍🍫🫘\nBlonda incluida",
+      "precio": "12.375 cup"
+    }
+  ]
+}

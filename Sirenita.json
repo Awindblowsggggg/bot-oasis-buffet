@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Sirenita",
+      "imagen": "./imagenes/sirenita-2pisos.jpg",
+      "descripcion": "Cake 2 pisos grande La sirenita Ariel\nSabor 😝🫘🍫🍍\nBlonda incluida",
+      "precio": "12.375 cup"
+    }
+  ]
+}

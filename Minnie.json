@@ -1,0 +1,16 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Minnie",
+      "imagen": "./imagenes/minnie-Prin-2p.jpg",
+      "descripcion": "Cake 2 pisos grande Minnie\nSabor 😝🫘🍫🍍\nBlonda incluida",
+      "precio": "12.375 cup"
+    },
+    {
+      "nombre": "Cake de Minnie",
+      "imagen": "./imagenes/minnie.jpg",
+      "descripcion": "Cake mitad bandeja ➕ redondo chiquito arriba\nSabor 😝🫘🍫🍍\nBlonda incluida",
+      "precio": "12.495 cup"
+    }
+  ]
+}

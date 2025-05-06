@@ -1,0 +1,10 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Princesa Sofía",
+      "imagen": "./imagenes/princesa-sofia.jpg",
+      "descripcion": "Cake dos pisos grande\nTemática de Sofía en Foamy y papel no comestible\nSabor guayaba",
+      "precio": "12.000 cup"
+    }
+  ]
+}

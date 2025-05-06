@@ -1,0 +1,22 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Princesas",
+      "imagen": "./imagenes/Princes.jpg",
+      "descripcion": "Cake 2 pisos grande\nTemática en Foamy de Princesas\nSabor 😝🫘🍫🍍\nBlonda incluida",
+      "precio": "12.375 cup"
+    },
+    {
+      "nombre": "Cake de Princesas",
+      "imagen": "./imagenes/princes-2.jpg",
+      "descripcion": "Cake tamaño bandeja ➕ redondo chiquito arriba\nTemática en Foamy de Princesas Disney\nSabor 😝🫘🍫🍍\nBlonda incluida",
+      "precio": "16.725 cup"
+    },
+    {
+      "nombre": "Cake de Princesas",
+      "imagen": "./imagenes/princesas.jpg",
+      "descripcion": "Cake 3 pisos\nTemática en Foamy de Mohana\nSabor 😝\nCrema de chocolate\nCrema de maní (3)\nCrema de piña 🍍 (3)\nBombón (3)\nLeche condensada fanguito (3)\nGuayaba\nBlonda incluida",
+      "precio": "25.075 cup"
+    }
+  ]
+}

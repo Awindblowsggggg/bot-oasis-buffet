@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "nombre": "Cake de Paw Patrol",
+      "imagen": "./imagenes/pawpatrol-tb.jpeg",
+      "descripcion": "Cake tamaño bandeja\nTemática en Foamy de Paw Patrol\nSabor 😝\nCrema de chocolate\nCrema de maní (2)\nGuayaba\nBombón (2)\nLeche condensada (2) (fanguito)\nBlonda incluida\n12.500 cup",
+      "precio": "12.500 cup"
+    },
+    {
+      "nombre": "Cake de Sky Paw Patrol",
+      "imagen": "./imagenes/skyPawPatrul .jpg",
+      "descripcion": "Cake 3 pisos\nTemática en Foamy de Sky de Paw Patrol\nSabor 😝\nCrema de chocolate\nCrema de maní (3)\nCrema de piña 🍍 (3)\nBombón (3)\nLeche condensada fanguito (3)\nGuayaba\nBlonda incluida",
+      "precio": "26.075 cup"
+    },
+    {
+      "nombre": "Cake de Paw Patrol",
+      "imagen": "./imagenes/pawpatrol-2pisos.jpeg",
+      "descripcion": "Cake 2 pisos grande\nColores 🌈 rojo ❤ verde 💚 azul 💙\nTemática en Foamy de Paw Patrol\nSabor 😝\nCrema de maní (3)\nCrema de chocolate\nCrema de piña (3)\nLeche condensada (fanguito)(3)\nGuayaba\nBlonda incluida",
+      "precio": "12.375 cup"
+    },
+    {
+      "nombre": "Cake de Paw Patrol",
+      "imagen": "./imagenes/pawpatrol-tb-redondo-chiquto.jpeg",
+      "descripcion": "Cake tamaño bandeja ➕ redondo chiquito arriba\nTemática en Foamy de Paw Patrol\nColor rojo ❤ azul 💙 y blanco 🤍\nSabor 😝\nCrema de chocolate 🍫\nCrema de maní (3)\nCrema de piña (3)\nBombón (3)\nLeche condensada (3)(fanguito)",
+      "precio": "16.725 cup"
+    }
+  ]
+}
